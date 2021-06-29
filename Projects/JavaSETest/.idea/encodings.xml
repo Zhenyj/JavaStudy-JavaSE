@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/Project/src/Project01/FamilyAccount.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Project/src/Project01/Utility.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Project/src/Project02/CMUtility.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/high-code/src/Section12IO/demo01/Demo02OutputStream.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/high-code/src/Section12IO/demo01/Demo03OutputStream.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/high-code/src/Section12IO/demo01/a.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/high-code/src/Section12IO/demo01/b.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/high-code/src/Section12IO/demo01/c.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/high-code/src/Section12IO/demo03/Demo01FileCopy.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/high-code/src/Section12IO/demo08Buffered/c.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/high-code/src/Section12IO/demo08Buffered/gbk.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/high-code/src/Section18Annotation/demo01/Demo01Anno.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/high-code/src/Section18Annotation/demo03/Demo01.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/high-code/src/Section18Annotation/demo03/MyAnno.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/high-code/src/Section18Annotation/demo03/MyAnno2.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/high-code/src/Section18Annotation/demo03/MyAnno3.java" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
